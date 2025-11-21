@@ -2,7 +2,7 @@
 
 **Self-Defending. Self-Healing. Quantum-Aware.
 
-The third layer of the Majewski Defense Architecture for DigiByte.**
+The third layer of the Defense Architecture for DigiByte.**
 
 MIT Licensed — © 2025 DarekDGB & Contributors
 
