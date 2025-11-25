@@ -1,3 +1,25 @@
+⚠️ Archived: Legacy ADN Prototype (v1)
+
+This repository contains an early prototype of the Autonomous Defense Node (ADN) created during the initial phase of the DigiByte Quantum Shield vision.
+
+It is no longer maintained, not production-ready, and has been fully replaced by:
+
+👉 ADN v2 — the official, tested, CI-verified implementation
+🔗 https://github.com/DarekDGB/DigiByte-ADN-v2
+
+Why this repo is archived
+	•	The architecture here is older and incomplete
+	•	v2 includes full test suite, new threat model, and better integration with Sentinel AI v2 + DQSN
+	•	This repository remains online only for historical reference and transparency
+	•	All future development happens in the v2 repo
+
+Important Note
+
+If you are a developer, node operator, or researcher:
+➡️ Do not use this code in any production environment.
+Use the v2 implementation instead.
+
+
 🛡️ DigiByte Autonomous Defense Node (ADN)
 
 **Self-Defending. Self-Healing. Quantum-Aware.
